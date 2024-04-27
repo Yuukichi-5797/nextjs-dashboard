@@ -64,7 +64,7 @@ export default function LoginForm() {
         <div 
           className="flex h-8 items-end space-x-1"
           aria-live="polite"
-          aria-atommic="true"
+          aria-atomic="true"
         >
           {errorMessage && (
             <>
